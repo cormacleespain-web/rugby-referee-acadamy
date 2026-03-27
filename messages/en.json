@@ -1,0 +1,50 @@
+{
+  "common": {
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign out",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "team": "Team",
+    "pricing": "Pricing",
+    "youth": "Youth Initiatives",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "submissions": "Submissions",
+    "reports": "Reports"
+  },
+  "home": {
+    "title": "Referee Academy",
+    "tagline": "Professional match review and coaching for referees",
+    "cta": "Get started",
+    "learnMore": "Learn more"
+  },
+  "auth": {
+    "signInTitle": "Sign in",
+    "signInDescription": "Sign in to your Referee Academy account",
+    "signUpTitle": "Create an account",
+    "signUpDescription": "Join Referee Academy to get professional match reviews",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full name",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Manage your performance reviews and view reports",
+    "newSubmission": "New submission",
+    "newSubmissionDescription": "Submit match footage for professional review",
+    "startNewRequest": "Start new request",
+    "recentSubmissions": "Recent submissions",
+    "recentSubmissionsDescription": "Your latest performance review requests",
+    "noSubmissions": "No submissions yet. Start your first review request."
+  }
+}
